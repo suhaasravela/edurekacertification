@@ -9,11 +9,17 @@ print("Factors of a Given Number {0} are:".format(number))
 while (value <= number):
     if(number % value == 0):
         print("{0}".format(value))
+    if (value % 2) == 0:
+        print("even number")
+    elif(value % 2)!= 0: 
+        print("odd number") 
     value = value + 1
 
+
+
 # even or odd number
-if (number % 2) == 0:
+"""if (number % 2) == 0:
     print("even number")
 else: 
-    print("odd number") 
+    print("odd number") """
 

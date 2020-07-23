@@ -1,4 +1,6 @@
-# inputting hte sentence
+#entering a word or phrase and finding the number of letters and digits. 
+
+# inputting hte sentence 
 
 my_sentence = input('enter a word or phrase: ')
 

@@ -1,3 +1,5 @@
+# code to determine if a number is a palindrome or not
+
 # getting the input
 num = input("Enter a number: ") 
 

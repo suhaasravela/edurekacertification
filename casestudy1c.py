@@ -1,3 +1,5 @@
+#getting numbers between 1000 and 3000 that have an even number in them
+
 items = []
 for i in range(1000, 3001):
     x = str(i)

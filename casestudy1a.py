@@ -1,4 +1,4 @@
-
+# get the factors of a number and determine if each is odd or even
 #checking the factors of the number
 
 number = int(input("Please Enter a Number: "))
@@ -16,4 +16,4 @@ if (number % 2) == 0:
     print("even number")
 else: 
     print("odd number") 
-    
+

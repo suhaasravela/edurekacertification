@@ -1,4 +1,4 @@
-# getting the sentence of words
+# getting the sentence of words and splitting them up into a list in alphabetical order
 
 my_sentence = input('please enter a sentence: ')
 
